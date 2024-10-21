@@ -15,6 +15,6 @@ Este proyecto es una aplicación web construida con **Django** que predice la ca
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/wine-quality-predictor.git
-cd wine-quality-predictor
+git clone https://github.com/HernanVilca/BeDjangoPredictorWine.git
+cd BeDjangoPredictorWine
 ```
