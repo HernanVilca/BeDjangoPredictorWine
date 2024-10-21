@@ -1,0 +1,53 @@
+# Archivos de Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+*.env
+.venv/
+
+# Archivos de configuración y secretos
+*.sqlite3
+db.sqlite3
+*.env  # Si usas un archivo .env para variables de entorno
+.env.*
+
+# Archivos y carpetas de compilación
+staticfiles/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Archivos creados por sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos para deploy
+*.tar.gz
+*.zip
