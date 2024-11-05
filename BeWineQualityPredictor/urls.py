@@ -20,4 +20,5 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/predict/', include('predictorWine.urls')),
+    path('api/predictredneuronalpppp/', include('predictorRedNeuronal.urls')),
 ]
