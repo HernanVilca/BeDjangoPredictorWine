@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'predictorWine',
     'predictorRedNeuronal',
+    'predictorRedNeuronalv3',
     'corsheaders',
 ]
 

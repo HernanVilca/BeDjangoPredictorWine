@@ -21,4 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/predict/', include('predictorWine.urls')),
     path('api/predictredneuronalpppp/', include('predictorRedNeuronal.urls')),
+    path('api/predictredneuronalppppv3/', include('predictorRedNeuronalv3.urls')),
 ]
